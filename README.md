@@ -1,6 +1,6 @@
 # Project DEV4 : Baba Is You
 
-## Autors 
+## Authors 
 This project is made by Timmermans Cédric 58497 and Lejeune Mathéo 58738
 
 ![uml](Main.jpg)
